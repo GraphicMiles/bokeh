@@ -2,8 +2,8 @@
 
 A wardrobe app and the landing page that sells it. One product, two surfaces, one design system.
 
-- `index.html` — the landing page (dark, floating pill nav, hero mosaic, partner strip, workflow bento, gallery, testimonial carousel, community CTA, footer monument wordmark).
-- `app/index.html` — the app itself: feed, search, wardrobe, profile, post detail, piece detail, and the sheets.
+- `index.html` - the landing page (dark, floating pill nav, hero mosaic, partner strip, workflow bento, gallery, testimonial carousel, community CTA, footer monument wordmark).
+- `app/index.html` - the app itself: feed, search, wardrobe, profile, post detail, piece detail, and the sheets.
 
 Both files are self-contained. No build step, no dependencies, no network calls: fonts, icons and imagery are embedded. Open `index.html` in a browser and everything works, including the link through to the app.
 
